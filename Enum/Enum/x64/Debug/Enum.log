@@ -1,0 +1,4 @@
+﻿  Enum.cpp
+C:\Users\Admin\Desktop\ПОПКА МУРАВЬЯ\Программирование\Лаба5\Enum\Enum\Enum.cpp(19,100): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Admin\Desktop\ПОПКА МУРАВЬЯ\Программирование\Лаба5\Enum\Enum\Enum.cpp(20,189): warning C4305: аргумент: усечение из "double" в "float"
+  Enum.vcxproj -> C:\Users\Admin\Desktop\ПОПКА МУРАВЬЯ\Программирование\Лаба5\Enum\x64\Debug\Enum.exe
